@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jennafuttrup@gmail.com**
 
-- ⚡ Fun fact **I think I'm so nerd :P**
+- ⚡ Fun fact **I think I'm so nerdy 😅😅**
 
 
 <p align="left">
