@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Jenna-P/Jenna-P/blob/3ecd16f1f966e4d980fd246534c1ab9d1ee683ce/GithubBanner.png)
 <h1 align="center">I'm Jenna Petersen</h1>
-<h3 align="center">A passionate frontend || Web developer</h3>
+<h3 align="center">A passionate software || Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🌱 I’m currently learning **React, TypeScript**
